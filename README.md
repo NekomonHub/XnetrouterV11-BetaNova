@@ -6,7 +6,7 @@
 **Fitur:**
 - Icmp raw
 - Icmp broadcast storm
-- 
+
 **Fitur Spesial**
 - Attack up to 1,5mb/s
 - Dead Router
